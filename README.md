@@ -11,3 +11,13 @@ My code samples for the Azure Day 2019 conference in Zurich, Switzerland.
 You can see the details and the slides here:
 https://galasoft.ch/presentations/details/2019033
 
+### Other repositories
+
+- [Functions Xamarin Getting Started](https://github.com/Azure-Samples/functions-xamarin-getting-started)
+	- Complete Serverless example with Xamarin client
+
+- [SignalR Chat Client](https://github.com/lbugnion/sample-xamarin-signalr)
+	- Using SignalR, we build a chat client for Web and Xamarin
+	
+- [CustomVision](https://github.com/lbugnion/sample-crossplatform-customvision)
+	- An example using http://customvision.ai to recognize apples from oranges (and bananas), complete with Xamarin.Forms client
